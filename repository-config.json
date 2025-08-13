@@ -1,0 +1,56 @@
+{
+  "repository_metadata": {
+    "name": "SolidWorks-API-Professional-Collection",
+    "version": "2.0.0",
+    "maintainer": "Solprov Engineering (Pty) Ltd",
+    "standards": ["ISO 9001", "SANS 10131:2004", "API 650", "SAIME", "SAQI"],
+    "last_updated": "2025-08-13",
+    "total_repositories": 30,
+    "categories": {
+      "core_frameworks": {
+        "count": 3,
+        "repositories": ["xarial/codestack", "xarial/xcad", "xarial/xcad-examples"]
+      },
+      "automation_tools": {
+        "count": 3,
+        "repositories": ["weianweigan/SolidWorksLookup", "Glutenberg/swtoolkit", "weianweigan/SldWorks.TestRunner"]
+      },
+      "specialized_applications": {
+        "count": 7,
+        "repositories": ["weianweigan/DuSwToglTF", "Aeroanion/Free-Solidworks-OBJ-Exporter", "deloarts/pyswx", "ldevillez/pySwTools", "na-trium-144/solid-descriptor", "asharahmedjaved/L-Bracket-Optimization", "JamesStonehouse/HVAC-Optimization-MATLAB-Program"]
+      },
+      "addins_extensions": {
+        "count": 5,
+        "repositories": ["weianweigan/PMPageControl", "RoboMechatronics/myCustomCommand", "RoboMechatronics/MyCustomTaskpane", "Aeroanion/MeasureXForm-Solidworks-Macro", "Johanss-on/Assem2DXF"]
+      },
+      "industry_solutions": {
+        "count": 12,
+        "repositories": ["trueshail/SPM_Connect", "halaaro/pdmutils", "calebcapps/Solidworks-Automation", "BlueByteSystemsInc/Blue-Byte-Systems-Inc-Help-Center", "vakanksha2002/API-Development", "maisam-fathi/regal-3d-automation", "maisam-fathi/solidwork-assistant", "maisam-fathi/standard-part-generator", "AltoAuto/AltoAuto", "AngDan93/Rotation", "EddyAlleman/SWPUC32---Equidistant-Points-on-a-Hemisphere", "BlueByteSystemsInc/.github"]
+      }
+    }
+  },
+  "quality_standards": {
+    "iso_9001": {
+      "manufacturing_processes": true,
+      "quality_control": true,
+      "documentation": true,
+      "continuous_improvement": true
+    },
+    "professional_certifications": {
+      "saime": "South African Institute of Mechanical Engineers",
+      "saqi": "South African Quality Institute"
+    }
+  },
+  "security_scanning": {
+    "enabled": true,
+    "scan_frequency": "weekly",
+    "vulnerability_database": "github_advisory_database",
+    "compliance_checks": ["SANS", "API", "ISO"]
+  },
+  "performance_metrics": {
+    "repository_health_checks": true,
+    "automated_updates": true,
+    "caching_enabled": true,
+    "cdn_enabled": false
+  }
+}
